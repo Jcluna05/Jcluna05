@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Julio César Luna 👋</h1>
+<h1 align="center">Hola, soy Julio César 👋</h1>
 <h3 align="center">Apasionado por el desarrollo, la tecnología y la creación de soluciones innovadoras.</h3>
 
 <p align="center">
