@@ -11,7 +11,7 @@
 
 - 💼 Actualmente soy **Project Manager y Desarrollador Junior de Software** en SolnusTec S.A.
 - 📚 Me encuentro estudiando la **Maestría de Inteligencia Artificial Aplicada** en la Universidad Técnica Particular de Loja
-- 🔧 Tengo experiencia con: `Python`, `Odoo`, `JavaScript`, `CSS`, `Docker`, `YOLO`, `DeepSORT`
+- 🔧 Tengo experiencia con: `Python`, `Odoo`, `JavaScript`, `CSS`, `Unity`, `YOLO`, `DeepSORT`
 - 🧠 Me encanta aprender nuevas tecnologías y llevar ideas a la realidad.
 - 🌱 En este momento estoy aprendiendo sobre **facturación electronica** y mejorando habilidades de **frontend**.
 - ⚡ Fun fact: Siempre estoy buscando formas de automatizar tareas aburridas.
@@ -23,7 +23,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
