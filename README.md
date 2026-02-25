@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 💼 Actualmente soy **Project Manager y Desarrollador Junior de Software** en SolnusTec S.A.
+- 💼 Actualmente soy **Desarrollador FullStack** en SolnusTec S.A.
 - 📚 Me encuentro estudiando la **Maestría de Inteligencia Artificial Aplicada** en la Universidad Técnica Particular de Loja
 - 🔧 Tengo experiencia con: `Python`, `Odoo`, `JavaScript`, `CSS`, `Unity`, `YOLO`, `DeepSORT`
 - 🧠 Me encanta aprender nuevas tecnologías y llevar ideas a la realidad.
